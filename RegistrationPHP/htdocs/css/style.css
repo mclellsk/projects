@@ -1,0 +1,32 @@
+.navbar-form  .input-clean
+{
+	margin: 2px !important;
+	width: 150px !important;
+}
+.navbar-form
+{
+	margin: 0px;
+	padding: 5px;
+	font-size: 10px !important;
+	float: right;
+	width: 170px;
+	position: absolute;
+	right: 0;
+	height: 200px;
+}
+.form-clean
+{
+	margin: auto !important;
+	padding: 5px;
+	width: 300px;
+}
+.btn-clean
+{
+	border: 0 !important;
+	padding: 5px;
+}
+.input-clean
+{
+	border: 0 !important;
+	padding: 2px;
+}
