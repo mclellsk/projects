@@ -3,7 +3,7 @@ Registration Page - Sean McLellan
 
 Installation:
 
-This project was built using XAMPP. To get it to work, paste the contents of the htdocs folders directly into your web folder for sites (in XAMPP this would be htdocs). Run the contents of the SQLProcedures file on your MySQL database management system. If you wish to use another RDMS you will need to adapt the contents of this file to use the appropriate syntax.
+This project was built using XAMPP. To get it to work, paste the contents of the htdocs folders directly into your web folder for sites (in XAMPP this would be htdocs). Run the contents of the SQLProcedures file on your MySQL database management system. If you wish to use another RDMS you will need to adapt the contents of this file to use the appropriate syntax. You will also need to rename the variables in the config.php to match your MySQL server settings.
 
 Description:
 
