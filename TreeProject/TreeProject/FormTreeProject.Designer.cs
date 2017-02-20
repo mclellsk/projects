@@ -33,7 +33,6 @@
             this.btnInsert = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnSearch = new System.Windows.Forms.Button();
-            this.btnBalance = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // treeView
@@ -79,23 +78,13 @@
             this.btnSearch.TabIndex = 6;
             this.btnSearch.Text = "Search";
             this.btnSearch.UseVisualStyleBackColor = true;
-            // 
-            // btnBalance
-            // 
-            this.btnBalance.Location = new System.Drawing.Point(12, 255);
-            this.btnBalance.Name = "btnBalance";
-            this.btnBalance.Size = new System.Drawing.Size(156, 23);
-            this.btnBalance.TabIndex = 7;
-            this.btnBalance.Text = "Balance";
-            this.btnBalance.UseVisualStyleBackColor = true;
-            this.btnBalance.Click += new System.EventHandler(this.btnBalance_Click);
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
             // formMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(423, 311);
-            this.Controls.Add(this.btnBalance);
             this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnInsert);
@@ -115,7 +104,6 @@
         private System.Windows.Forms.Button btnInsert;
         private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Button btnSearch;
-        private System.Windows.Forms.Button btnBalance;
     }
 }
 
