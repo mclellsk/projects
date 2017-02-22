@@ -1,1 +1,0 @@
-C:\Users\Sean\Desktop\Scripts\git\trunk\XNA\retrorunner2\retrorunner2\retrorunner2Content\obj\x86\Debug\retrorunner2Content.contentprojResolveAssemblyReference.cache
