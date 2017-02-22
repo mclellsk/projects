@@ -1,5 +1,0 @@
-C:\Users\Sean\Desktop\Scripts\git\trunk\XNA\maclib\maclib\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Sean\Desktop\Scripts\git\trunk\XNA\maclib\maclib\bin\x86\Debug\maclib.dll
-C:\Users\Sean\Desktop\Scripts\git\trunk\XNA\maclib\maclib\bin\x86\Debug\maclib.pdb
-C:\Users\Sean\Desktop\Scripts\git\trunk\XNA\maclib\maclib\obj\x86\Debug\maclib.dll
-C:\Users\Sean\Desktop\Scripts\git\trunk\XNA\maclib\maclib\obj\x86\Debug\maclib.pdb
