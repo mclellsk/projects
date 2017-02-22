@@ -4,4 +4,4 @@ This was a project developed during a 48 hour window at the 8th annual Toronto G
 
 INSTALLATION:
 
-Setup FlashDevelop with the Flixel library installed. Open the Tojam8.as3proj and build the project. If you want to view the swf alone, you will need to use Adobe Flash Player 11.x, playing the swf through browsers with newer versions don't always work.
+Setup FlashDevelop with the Flixel library installed. Open the Tojam8.as3proj and build the project. You may need to go into the project properties and setup the classpath to correctly reflect the location of the flixel library you installed. If you want to view the swf alone, you will need to use Adobe Flash Player 11.x, playing the swf through browsers with newer versions doesn't always work.
