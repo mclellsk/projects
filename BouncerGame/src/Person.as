@@ -21,9 +21,9 @@ package
 		[Embed(source = '../data/punch3.mp3')] private var soundPunch3:Class;
 		
 		[Embed(source = "../data/Person.png")] public var personSprite:Class; //base person image
-		[Embed(source = "../data/Person_Jamal.png")] public var personSprite2:Class;
+		[Embed(source = "../data/Person_African.png")] public var personSprite2:Class;
 		[Embed(source = "../data/Person_Lady.png")] public var personSprite3:Class;
-		[Embed(source = "../data/Person_Sweatshop.png")] public var personSprite4:Class;
+		[Embed(source = "../data/Person_Asian.png")] public var personSprite4:Class;
 		private var isInLine:Boolean = true; //if true, person will follow the line logic
 		private var isMoving:Boolean = true; //this means that the line is currently moving forwards
 		private var isSelectable:Boolean = true; //clickable
