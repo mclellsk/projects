@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="block.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Transform.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Colour.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="block.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Colour.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{8c82e37c-e0bf-4b16-9dc6-6644fff672b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{f5058fd4-eb97-4ded-86ea-a41bfcd50512}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
